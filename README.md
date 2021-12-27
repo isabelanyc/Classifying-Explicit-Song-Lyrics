@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/Parental_Advisory_Label.png"  width="850" height="300">
+  <img src="./images/Parental_Advisory_label.png"  width="850" height="300">
 </p> 
 
 # Classifying Explicit Song Lyrics
@@ -13,6 +13,7 @@ One way to combat this is by utilizing NLP. By using NLP, a computer can make mo
 This project aims to tackle this task by using a dataset of 27k lyrics with their explicit labels.
 
 ## Literature
+There are a few other previous related works in classifying explicit song lyrics.
 
 ## Data
 
